@@ -7,7 +7,7 @@ function Btn() {
     <div>
       <Link
         href="/work"
-        className="w-28 h-28 absolute z-[99999] left-0 bottom-32 max-[720px]:left-1/2 -translate-x-1/2 bg-[url(/assets/circle-star.svg)] bg-cover p-3 bg-center cursor-pointer bg-no-repeat group flex items-center justify-center"
+        className="w-28 h-28 absolute z-[99999] left-10 bottom-32 max-[720px]:left-1/2 -translate-x-1/2 bg-[url(/assets/circle-star.svg)] bg-cover p-3 bg-center cursor-pointer bg-no-repeat group flex items-center justify-center"
       >
         <Image
           width={100}
